@@ -164,11 +164,11 @@ const Main = () => {
                                     <textarea
                                         className="w-full h-44 px-3 py-2 bg-gray-900 text-base text-white placeholder-gray-400 border focus:outline-none rounded scrollbar scrollbar-thumb-gray-800 scrollbar-track-gray-900 scrollbar-thin"
                                         placeholder="Type or paste text here..."
-                                        style={{ resize: "none" }}
                                         onChange={(e) => setText(e.target.value)}
                                         value={text}
                                         spellCheck={false}
                                         style={{
+                                            resize: "none",
                                             opacity: generating ? '0.3' : '1',
                                             pointerEvents: generating ? 'none' : 'all'
                                         }}
