@@ -103,10 +103,8 @@ const Main = () => {
     }
 
     useEffect(() => { 
-        setButtonDisable(text === '' || !image.hasImage)
-        setHasAreaText(text === '' || !image.hasImage)
-
-        console.log(`Image name: ${image.name}`)
+        setButtonDisable(text === '' || !image.hasImage || image.name === null)
+        setHasAreaText(text === '' || !image.hasImage || image.name === null)
     }, [text, image.hasImage, image.name])
 
     return (
@@ -260,7 +258,6 @@ const Preview = () => {
                 if (area.scrollHeight <= parentAreaHeight) {
                     // Append the text
                     area.innerHTML += globalState.text
-                    console.log('Running time: ', Date.now())
                 } else {
                     clearInterval(timeout)
                 }
