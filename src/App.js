@@ -104,19 +104,19 @@ const Main = () => {
 
     useEffect(() => { 
         setButtonDisable(text === '' || !image.hasImage || image.name === null)
-        setHasAreaText(text === '' || !image.hasImage || image.name === null)
+        setHasAreaText(false)
     }, [text, image.hasImage, image.name])
 
     return (
-        <div className="w-full bg-gray-800 h-screen">
+        <div className="w-full bg-gray-800 min-h-screen">
             <section className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-4 py-12">
                 <div className="text-center pb-12">
-                    <h2 className="text-base font-bold text-indigo-600">
-                        Made with ❤️ by Jerson Carin
-                    </h2>
                     <h1 className="font-bold text-3xl md:text-4xl lg:text-5xl font-heading text-white">
                         CSS Portrait Image Generator
                     </h1>
+                    <h2 className="text-base font-bold text-indigo-600 mt-2">
+                        Made with ❤️ by Jerson Carin
+                    </h2>
                 </div>
                 <div className="grid grid-cols-1  gap-6">
                     <div className="w-full bg-gray-900 rounded-lg sahdow-lg overflow-hidden flex flex-col md:flex-row">
