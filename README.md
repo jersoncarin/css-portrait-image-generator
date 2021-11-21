@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# CSS Text Portrait Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![created by](https://img.shields.io/badge/Created%20by-Jerson%20Carin-blue)](https://github.com/jersoncarin-dev)  [![license](https://img.shields.io/badge/License-MIT-blue)](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator/blob/master/LICENSE)
 
-## Available Scripts
+[![repo banner](https://raw.githubusercontent.com/jersoncarin-dev/CSS-Portrait-Image-Generator/master/banner.png)](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator)
 
-In the project directory, you can run:
+A trend CSS Text Portrait Image blending generator ✨
 
-### `yarn start`
+## 🔥 Demo 
+[![demo](https://img.shields.io/badge/Demo-Link-blue)](https://css-portrait.jersoncarin.dev)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![demo image](https://raw.githubusercontent.com/jersoncarin-dev/CSS-Portrait-Image-Generator/master/demo.png)](https://css-portrait.jersoncarin.dev)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ⚡ Features
 
-### `yarn test`
+- Auto-fill screen with text repeatedly by it's width and height
+- Responsive web design.
+- Customizable
+- Easy to use, no-code friendly.
+- Generate and Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Have suggestions? Let me know!
 
-### `yarn build`
+## 🎯 Contributing
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `master` branch. Thank you!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🐛 Issues
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+If you're facing a problem in using CSS Text Portrait Builder please let me know by [creating an issue here](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator/issues/new). I'm here to help you!
 
-### `yarn eject`
+## 📃 License
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+CSS Portrait Image Generator is licensed under [The MIT License](https://opensource.org/licenses/MIT).
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📝 Author
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+CSS Text Portrait Builder is created by **[Jerson Carin](https://github.com/jersoncarin-dev/)**
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💻 Made with 💖 by [Jerson Carin](https://jersoncarin.dev)
