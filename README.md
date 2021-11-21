@@ -35,7 +35,7 @@ CSS Portrait Image Generator is licensed under [The MIT License](https://opensou
 
 ## 📝 Author
 
-CSS Text Portrait Builder is created by **[Jerson Carin](https://github.com/jersoncarin/)**
+CSS Portrait Image Generator is created by **[Jerson Carin](https://github.com/jersoncarin/)**
 
 ---
 
