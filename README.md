@@ -27,7 +27,7 @@ Contributions are welcome, create a pull request to this repo and I will review 
 
 ## 🐛 Issues
 
-If you're facing a problem in using CSS Text Portrait Builder please let me know by [creating an issue here](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator/issues/new). I'm here to help you!
+If you're facing a problem in using CSS Portrait Image Generator please let me know by [creating an issue here](https://github.com/jersoncarin-dev/CSS-Portrait-Image-Generator/issues/new). I'm here to help you!
 
 ## 📃 License
 
