@@ -1,6 +1,6 @@
 {
-    "name": "app",
-    "version": "0.1.0",
+    "name": "css-portrait-image-generator",
+    "version": "1.0",
     "private": true,
     "dependencies": {
         "@craco/craco": "^6.4.0",
