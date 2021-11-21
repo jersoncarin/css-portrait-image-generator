@@ -218,7 +218,7 @@ const Main = () => {
                                                 min={1}
                                                 max={100}
                                                 step={1}
-                                                defaultValue={100}
+                                                value={greyScale}
                                                 style={{
                                                     opacity: generating || !hasAreaText ? '0.3' : '1',
                                                     pointerEvents: generating || !hasAreaText ? 'none' : 'all'
@@ -234,7 +234,7 @@ const Main = () => {
                                                 min={1}
                                                 max={100}
                                                 step={1}
-                                                defaultValue={6}
+                                                value={fontSize}
                                                 style={{
                                                     opacity: generating || !hasAreaText ? '0.3' : '1',
                                                     pointerEvents: generating || !hasAreaText ? 'none' : 'all'
@@ -250,7 +250,7 @@ const Main = () => {
                                                 min={-10}
                                                 max={10}
                                                 step={0.1}
-                                                defaultValue={0.8}
+                                                value={lineHeight}
                                                 style={{
                                                     opacity: generating || !hasAreaText ? '0.3' : '1',
                                                     pointerEvents: generating || !hasAreaText ? 'none' : 'all'
