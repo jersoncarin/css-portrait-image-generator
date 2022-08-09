@@ -143,7 +143,7 @@ const Main = () => {
     }, [text, image.hasImage, image.name])
 
     const onAuthorClick = () => {
-        window.location.href = 'https://jersoncarin.dev'
+        window.location.href = 'https://jersoncarin.net'
     }
 
     return (
